@@ -38,9 +38,3 @@ Após instalar o Python, abra o **CMD**, PowerShell ou outro terminal e execute:
 
 Após instalar o Python e o PySide6, baixe e rode o arquivo
 ```K-Code.py```
-
-
-O vídeo abaixo mostra **todo o processo de desenvolvimento**, incluindo os prompts utilizados, os problemas encontrados, as soluções e o resultado final do desafio.
-
-[![CRIEI MEU PRÓPRIO NAVEGADOR COM CHATGPT](https://img.youtube.com/vi/Mhg1nnVn86g/maxresdefault.jpg)](https://www.youtube.com/watch?v=Mhg1nnVn86g)
-
